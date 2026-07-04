@@ -25,9 +25,10 @@ My goal is to build honest, beginner-friendly technical projects that show my ab
 - Practice safe and ethical cybersecurity learning
 - Connect hands-on labs to real IT, cloud, and security skills
 
-## Featured Projects
+## Portfolio Labs
 
-Projects will be added here as I complete and document them.
+- [VMware Linux Networking Lab](https://github.com/TimHayesTech/vmware-linux-networking-lab)  
+  Beginner virtualization and Linux networking lab using VMware Workstation Pro, Ubuntu, Kali Linux, NAT networking, snapshots, troubleshooting, and Markdown documentation.
 
 Upcoming:
 
